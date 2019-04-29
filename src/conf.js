@@ -1,0 +1,1 @@
+export const TELEGRAM_TOKEN: string = '848538482:AAHlWt5bS1fT_79tOWZ9Og6lVeGKDICMOAw';
