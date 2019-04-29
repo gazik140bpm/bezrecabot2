@@ -7,6 +7,8 @@ import * as conf from './conf';
 import * as constants from './constants';
 import type { Chat, PMQuery, InlineQuery } from './types';
 
+const TELEGRAM_TOKEN = '848538482:AAHlWt5bS1fT_79tOWZ9Og6lVeGKDICMOAw'
+
 class BezReceptaBot {
   bot: TelegramBot;
 
